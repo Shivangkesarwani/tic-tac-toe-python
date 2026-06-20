@@ -48,6 +48,23 @@ python tic_tac_toe.py
 * Score Tracking System
 * Python Functions and Control Flow
 * Game Logic Implementation
+## Screenshots
+
+### Start Screen
+
+![Start Screen](start-screen.png)
+
+### X Wins
+
+![X Wins](Xwin.png)
+
+### O Wins
+
+![O Wins](O_win.png)
+
+### Draw Match
+
+![Draw Match](draw.png)
 
 ## Author
 
