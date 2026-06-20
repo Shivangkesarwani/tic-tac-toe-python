@@ -20,19 +20,7 @@ A GUI-based Tic Tac Toe game developed using Python and Tkinter.
 
   
 
-## Screenshots
 
-### Start Screen
-![Start Screen](start-screen.png)
-
-### X Wins
-![X Wins](Xwin.png)
-
-### O Wins
-![O Wins](O_win.png)
-
-### Draw Match
-![Draw Match](draw.png)
 
 ## How to Run
 
